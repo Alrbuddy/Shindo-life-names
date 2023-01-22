@@ -1,5 +1,5 @@
-ELEMENTS:
- 
+return {
+
 Acid = acid
 Yang (Black sword) = yang
 Yin (White sword) = yin
@@ -67,3 +67,4 @@ Kenichi = kenichi
 Dangan = dangan
 Riser-Akuma = riser
 Renshiki = renshiki
+}
